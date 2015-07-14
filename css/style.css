@@ -301,8 +301,8 @@ header h1.logo {
   position: absolute;
   left: 50%;
   margin-left: -30px;
-  max-height: 50px;
-  max-width: 50px;
+  max-height: 75px;
+  max-width: 75px;
 }
 .socials {
   padding-top: 72px;
