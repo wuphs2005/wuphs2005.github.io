@@ -282,7 +282,7 @@ header {
   position: relative;
   z-index: 999;
   text-align: center;
-  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wesleyan_seal.png/220px-Wesleyan_seal.png') center 0 no-repeat;
+  background: url('') center 0 no-repeat;
   padding-bottom: 53px;
 }
 header .rel {
@@ -350,7 +350,7 @@ header h1.logo {
   content: '';
   left: 50%;
   margin-left: -42px;
-  background-color: #0e6d0e;
+  background-color: #FFFF00;
   opacity: .53;
   width: 0;
 }
