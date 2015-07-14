@@ -277,12 +277,12 @@ header .btn {
 }
 header {
   padding-top: 253px;
-  color: #e6e5e5;
+  color: #fbfb25;
   display: block;
   position: relative;
   z-index: 999;
   text-align: center;
-  background: url(../images/slide.jpg) center 0 no-repeat;
+  background: url('http://monvalmonte.com/nuevaecijajournal/WUP_campus.jpg') center 0 no-repeat;
   padding-bottom: 53px;
 }
 header .rel {
@@ -350,7 +350,7 @@ header h1.logo {
   content: '';
   left: 50%;
   margin-left: -42px;
-  background-color: #ffffff;
+  background-color: #0e6d0e;
   opacity: .53;
   width: 0;
 }
