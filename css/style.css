@@ -300,7 +300,9 @@ header h1.logo {
   top: -17px;
   position: absolute;
   left: 50%;
-  margin-left: -46px;
+  margin-left: -30px;
+  max-height: 50px;
+  max-width: 50px;
 }
 .socials {
   padding-top: 72px;
